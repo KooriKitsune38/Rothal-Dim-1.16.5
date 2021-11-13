@@ -1,0 +1,2 @@
+execute if score @s SnaitMovingAnim matches 0..10 run data modify entity @s ArmorItems[3].tag.CustomModelData set value 38021
+execute if score @s SnaitMovingAnim matches 11..21 run data modify entity @s ArmorItems[3].tag.CustomModelData set value 38022

@@ -1,0 +1,2 @@
+execute at @e[predicate=rothal_dimension:biomes/dream_hood/mobs/klinth/klinth_item] run function rothal_dimension:biomes_stuff/dream_hood/mobs/klinth/item/klinth_ambient_stuff
+schedule function rothal_dimension:biomes_stuff/dream_hood/mobs/klinth/item/klinth_ambient_schedule 4s

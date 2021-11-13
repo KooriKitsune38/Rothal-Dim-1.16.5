@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:entity_hurt_player",
+        "conditions": {
+          "damage": {
+            "source_entity": {
+              "type": "minecraft:wolf",
+              "nbt": "{Tags:[DreamSnaitWolf]}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+        "function": "rothal_dimension:biomes_stuff/dream_hood/mobs/snait/hit_player"
+    }
+  }

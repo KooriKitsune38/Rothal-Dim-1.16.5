@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:entity_hurt_player",
+        "conditions": {
+          "damage": {
+            "source_entity": {
+              "type": "minecraft:vex",
+              "nbt": "{Tags:[KlinthVex]}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+        "function": "rothal_dimension:biomes_stuff/dream_hood/mobs/klinth/hit_player"
+    }
+  }

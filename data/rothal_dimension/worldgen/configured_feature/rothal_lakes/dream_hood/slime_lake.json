@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:decorated",
+    "config": {
+      "decorator": {
+        "type": "minecraft:water_lake",
+        "config": {
+          "chance": 4
+        }
+      },
+      "feature": {
+        "type": "minecraft:lake",
+        "config": {
+          "state": {
+            "Name": "minecraft:slime_block"
+          }
+        }
+      }
+    }
+  }

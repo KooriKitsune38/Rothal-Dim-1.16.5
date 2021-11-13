@@ -1,0 +1,1 @@
+execute unless score @s DreamSnaitMoving matches 0 run particle falling_honey ^ ^ ^ .2 .05 .2 0 5 force

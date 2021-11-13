@@ -1,0 +1,11 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity":"this",
+    "predicate": {
+        "type":"vex",
+        "nbt":"{Tags:[KlinthVex]}",
+        "targeted_entity": {
+            "type":"player"
+        }
+    }
+}
